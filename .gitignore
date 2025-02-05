@@ -1,6 +1,12 @@
+# Sensitive Data
+wallets/
+
 # Ignore all folders starting with a dot (.)
 /.*/
+.__nb_swap__
 
 # Ignore lost+found directory
 lost+found/
-.__nb_swap__
+
+# Ignore config folders
+oradiag_daytascience/
