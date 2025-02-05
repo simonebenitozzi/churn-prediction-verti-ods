@@ -1,0 +1,13 @@
+[DEFAULT]
+user=ocid1.user.oc1..aaaaaaaakhwsmdcr7nl5lvrru567zdk4xttzoxashj6bskz56xh6tsejfv4q
+fingerprint=f3:16:eb:ae:a3:f2:2d:62:09:c6:c2:6b:01:c1:d5:92
+tenancy=ocid1.tenancy.oc1..aaaaaaaapxmp5ndob6oorw5brwnl44wc5twc5b6sdctzl535kzqkcqatyg7q
+region=eu-frankfurt-1
+key_file=C:\Users\d.colombaro\Documents\VERTI\keys\OCI_keys\private_dev_OCI.pem
+
+[PROD]
+user=ocid1.user.oc1..aaaaaaaate4nqvwiqctoiv72nb7zwtzwsoxjjhgkqqn4yjabshhzi7foexnq
+fingerprint=28:9e:b0:6a:75:80:e1:72:05:e6:fa:33:6e:76:33:2b
+tenancy=ocid1.tenancy.oc1..aaaaaaaapxmp5ndob6oorw5brwnl44wc5twc5b6sdctzl535kzqkcqatyg7q
+region=eu-frankfurt-1
+key_file=C:\Users\d.colombaro\Documents\VERTI\keys\OCI_keys\private_prod_OCI.pem

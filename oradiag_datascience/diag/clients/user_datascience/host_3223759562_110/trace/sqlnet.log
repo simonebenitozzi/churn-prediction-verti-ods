@@ -1,0 +1,28 @@
+2025-02-04T10:25:03.031004+00:00
+Create Relation ADR_CONTROL
+Create Relation ADR_INVALIDATION
+Create Relation INC_METER_IMPT_DEF
+Create Relation INC_METER_PK_IMPTS
+
+
+***********************************************************************
+
+Fatal NI connect error 12545, connecting to:
+ (description=(retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=edwhprod.adb.eu-frankfurt-1.oraclecloud.com))(connect_data=(service_name=klpaja9hk2zidjr_edwh_low.adwc.oraclecloud.com)(CID=(PROGRAM=python)(HOST=12a6c35397e9)(USER=datascience)))(security=(MY_WALLET_DIRECTORY=/tmp/tmp6jt0hpmi)(ssl_server_dn_match=no)))
+
+  VERSION INFORMATION:
+	TNS for Linux: Version 19.0.0.0.0 - Production
+	sdp
+  Version 19.23.0.0.0
+  Time: 04-FEB-2025 10:25:03
+  Tracing not turned on.
+  Tns error struct:
+    ns main err code: 12545
+    
+TNS-12545: Message 12545 not found; No message file for product=network, facility=TNS
+    ns secondary err code: 12560
+    nt main err code: 515
+    
+TNS-00515: Message 515 not found; No message file for product=network, facility=TNS
+    nt secondary err code: 0
+    nt OS err code: 0

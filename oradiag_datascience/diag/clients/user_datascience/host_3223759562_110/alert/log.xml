@@ -1,0 +1,131 @@
+<msg time='2025-02-04T10:25:03.030+00:00' org_id='oracle' comp_id='clients'
+ msg_id='dbgrmmdcrf_create_relation_full:1960:1503427940' type='NOTIFICATION' group='create'
+ level='16' host_id='12a6c35397e9' host_addr='172.19.0.2'
+ pid='245' version='2'>
+ <txt>Create Relation ADR_CONTROL
+ </txt>
+</msg>
+<msg time='2025-02-04T10:25:03.075+00:00' org_id='oracle' comp_id='clients'
+ msg_id='dbgrmmdcrf_create_relation_full:1960:1503427940' type='NOTIFICATION' group='create'
+ level='16' host_id='12a6c35397e9' host_addr='172.19.0.2'
+ pid='245'>
+ <txt>Create Relation ADR_INVALIDATION
+ </txt>
+</msg>
+<msg time='2025-02-04T10:25:03.108+00:00' org_id='oracle' comp_id='clients'
+ msg_id='dbgrmmdcrf_create_relation_full:1960:1503427940' type='NOTIFICATION' group='create'
+ level='16' host_id='12a6c35397e9' host_addr='172.19.0.2'
+ pid='245'>
+ <txt>Create Relation INC_METER_IMPT_DEF
+ </txt>
+</msg>
+<msg time='2025-02-04T10:25:03.165+00:00' org_id='oracle' comp_id='clients'
+ msg_id='dbgrmmdcrf_create_relation_full:1960:1503427940' type='NOTIFICATION' group='create'
+ level='16' host_id='12a6c35397e9' host_addr='172.19.0.2'
+ pid='245'>
+ <txt>Create Relation INC_METER_PK_IMPTS
+ </txt>
+</msg>
+<msg time='2025-02-04T10:25:03.207+00:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='12a6c35397e9'
+ host_addr='172.19.0.2' pid='245'>
+ <txt>
+
+***********************************************************************
+ </txt>
+</msg>
+<msg time='2025-02-04T10:25:03.208+00:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='12a6c35397e9'
+ host_addr='172.19.0.2' pid='245'>
+ <txt>
+Fatal NI connect error 12545, connecting to:
+ (description=(retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=edwhprod.adb.eu-frankfurt-1.oraclecloud.com))(connect_data=(service_name=klpaja9hk2zidjr_edwh_low.adwc.oraclecloud.com)(CID=(PROGRAM=python)(HOST=12a6c35397e9)(USER=datascience)))(security=(MY_WALLET_DIRECTORY=/tmp/tmp6jt0hpmi)(ssl_server_dn_match=no)))
+ </txt>
+</msg>
+<msg time='2025-02-04T10:25:03.209+00:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='12a6c35397e9'
+ host_addr='172.19.0.2' pid='245'>
+ <txt>
+  VERSION INFORMATION:
+	TNS for Linux: Version 19.0.0.0.0 - Production
+	sdp
+ </txt>
+</msg>
+<msg time='2025-02-04T10:25:03.210+00:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='12a6c35397e9'
+ host_addr='172.19.0.2' pid='245'>
+ <txt>  Version 19.23.0.0.0
+ </txt>
+</msg>
+<msg time='2025-02-04T10:25:03.210+00:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='12a6c35397e9'
+ host_addr='172.19.0.2' pid='245'>
+ <txt>  Time: 04-FEB-2025 10:25:03
+ </txt>
+</msg>
+<msg time='2025-02-04T10:25:03.211+00:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='12a6c35397e9'
+ host_addr='172.19.0.2' pid='245'>
+ <txt>  Tracing not turned on.
+ </txt>
+</msg>
+<msg time='2025-02-04T10:25:03.211+00:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='12a6c35397e9'
+ host_addr='172.19.0.2' pid='245'>
+ <txt>  Tns error struct:
+ </txt>
+</msg>
+<msg time='2025-02-04T10:25:03.211+00:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='12a6c35397e9'
+ host_addr='172.19.0.2' pid='245'>
+ <txt>    ns main err code: 12545
+ </txt>
+</msg>
+<msg time='2025-02-04T10:25:03.211+00:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='12a6c35397e9'
+ host_addr='172.19.0.2' pid='245'>
+ <txt>    
+ </txt>
+</msg>
+<msg time='2025-02-04T10:25:03.212+00:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='12a6c35397e9'
+ host_addr='172.19.0.2' pid='245'>
+ <txt>TNS-12545: Message 12545 not found; No message file for product=network, facility=TNS
+ </txt>
+</msg>
+<msg time='2025-02-04T10:25:03.212+00:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='12a6c35397e9'
+ host_addr='172.19.0.2' pid='245'>
+ <txt>    ns secondary err code: 12560
+ </txt>
+</msg>
+<msg time='2025-02-04T10:25:03.212+00:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='12a6c35397e9'
+ host_addr='172.19.0.2' pid='245'>
+ <txt>    nt main err code: 515
+ </txt>
+</msg>
+<msg time='2025-02-04T10:25:03.213+00:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='12a6c35397e9'
+ host_addr='172.19.0.2' pid='245'>
+ <txt>    
+ </txt>
+</msg>
+<msg time='2025-02-04T10:25:03.213+00:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='12a6c35397e9'
+ host_addr='172.19.0.2' pid='245'>
+ <txt>TNS-00515: Message 515 not found; No message file for product=network, facility=TNS
+ </txt>
+</msg>
+<msg time='2025-02-04T10:25:03.213+00:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='12a6c35397e9'
+ host_addr='172.19.0.2' pid='245'>
+ <txt>    nt secondary err code: 0
+ </txt>
+</msg>
+<msg time='2025-02-04T10:25:03.213+00:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='12a6c35397e9'
+ host_addr='172.19.0.2' pid='245'>
+ <txt>    nt OS err code: 0
+ </txt>
+</msg>

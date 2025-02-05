@@ -3,3 +3,4 @@
 
 # Ignore lost+found directory
 lost+found/
+.__nb_swap__
