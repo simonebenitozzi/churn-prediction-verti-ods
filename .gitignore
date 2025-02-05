@@ -1,0 +1,5 @@
+# Ignore all folders starting with a dot (.)
+/.*/
+
+# Ignore lost+found directory
+lost+found/
