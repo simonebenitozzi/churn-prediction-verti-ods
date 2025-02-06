@@ -10,4 +10,4 @@ bastion_keys/
 lost+found/
 
 # Ignore config folders
-oradiag_daytascience/
+oradiag_datascience/*
