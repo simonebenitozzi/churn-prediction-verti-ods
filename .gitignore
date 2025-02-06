@@ -1,5 +1,6 @@
 # Sensitive Data
 wallets/
+bastion_keys/
 
 # Ignore all folders starting with a dot (.)
 /.*/
